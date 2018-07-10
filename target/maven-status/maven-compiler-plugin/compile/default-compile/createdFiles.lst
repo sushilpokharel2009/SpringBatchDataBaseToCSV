@@ -1,0 +1,7 @@
+com/uvk/model/BatchConfiguration$1.class
+com/uvk/processor/VendorItemProcessor.class
+com/uvk/model/Vendor.class
+com/uvk/test/SpringBatchDatabaseToCSVApplication.class
+com/uvk/model/BatchConfiguration$1$1.class
+com/uvk/model/BatchConfiguration.class
+com/uvk/mapper/VendorRowMapper.class
